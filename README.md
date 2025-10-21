@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # ProjectPSO
-<<<<<<< HEAD
 This project proposes a Particle Swarm Optimization (PSO)-based intelligent traffic management system aimed at minimizing traffic congestion and optimizing signal timings. By integrating V2X (Vehicle-to-Everything) communication, the system ensures real-time data exchange between vehicles, roadside units, and the control center.
 
 Project Structure
-    |
     |--yolodetection.ipynb
     |--README.md
 
@@ -29,42 +26,3 @@ Installation
     1.Launch Jupyter Notebook: cd E:\ProjectPSO(Your Specific folder) jupyter notebook 
     2.Open yolodetection.ipynb. 
     3.Run each cell step by step.
-=======
-This project proposes a Particle Swarm Optimization (PSO)-based intelligent traffic management system aimed at minimizing traffic congestion and optimizing signal timings.
-By integrating V2X (Vehicle-to-Everything) communication, the system ensures real-time data exchange between vehicles, roadside units, and the control center.
-Project Structure
-
-E:/ProjectPSO
-  |
-  |-yolodetection.ipynb
-  |-README.md
-
-Features
-  Collects live traffic statistics via sensors and V2X inputs.
-  Computes optimal green light durations for each junction.
-  Updates signal timings dynamically based on PSO results.
-
-Technologies Used
-  Python 3.x
-  pyswarm
-  ultralytics
-  cv2
-  matplotlib
-
-Installation
-
-pip install pyswarm
-Or inside the Jupyter Notebook:
-!pip install pyswarm
-
-#Running
-
-1.Launch Jupyter Notebook:
-  cd E:\ProjectPSO(Your Specific folder)
-  jupyter notebook
-2.Open yolodetection.ipynb.
-3.Run each cell step by step.
->>>>>>> 62bb33d7c2458b1a6e337010c740fe7a2c1cf52d
-=======
-
->>>>>>> 5b04a8f2291835582252d164fbac445e3384cb87
