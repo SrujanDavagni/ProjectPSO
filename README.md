@@ -1,7 +1,7 @@
 # PSO-Based Traffic Optimization System with V2X Communication
 
 Optimize traffic signal timings using **Particle Swarm Optimization (PSO)** and **V2X (Vehicle-to-Everything)** communication.  
-This project enhances urban mobility by dynamically adjusting signal durations based on real-time traffic flow data, contributing to **UN SDG Goal 9 — Industry, Innovation, and Infrastructure**.
+This project enhances urban mobility by dynamically adjusting signal durations based on real-time traffic flow data.
 
 ---
 
@@ -42,6 +42,8 @@ E:\ProjectPSO
 
 - **Python 3.x**  
 - [NumPy](https://numpy.org/) — PSO computation
+- [Pyswarm] - PSO implementation
+- [Ultralytics] - YOLO detection
 - [Matplotlib](https://matplotlib.org/) — Visualization  
 
 ---
