@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjectPSO
 <<<<<<< HEAD
 This project proposes a Particle Swarm Optimization (PSO)-based intelligent traffic management system aimed at minimizing traffic congestion and optimizing signal timings. By integrating V2X (Vehicle-to-Everything) communication, the system ensures real-time data exchange between vehicles, roadside units, and the control center.
@@ -64,3 +65,6 @@ Or inside the Jupyter Notebook:
 2.Open yolodetection.ipynb.
 3.Run each cell step by step.
 >>>>>>> 62bb33d7c2458b1a6e337010c740fe7a2c1cf52d
+=======
+
+>>>>>>> 5b04a8f2291835582252d164fbac445e3384cb87
