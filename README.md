@@ -4,21 +4,21 @@ By integrating V2X (Vehicle-to-Everything) communication, the system ensures rea
 Project Structure
 
 E:/ProjectPSO
-|
-|-yolodetection.ipynb
-|-README.md
+  |
+  |-yolodetection.ipynb
+  |-README.md
 
 Features
-Collects live traffic statistics via sensors and V2X inputs.
-Computes optimal green light durations for each junction.
-Updates signal timings dynamically based on PSO results.
+  Collects live traffic statistics via sensors and V2X inputs.
+  Computes optimal green light durations for each junction.
+  Updates signal timings dynamically based on PSO results.
 
 Technologies Used
-Python 3.x
-pyswarm
-ultralytics
-cv2
-matplotlib
+  Python 3.x
+  pyswarm
+  ultralytics
+  cv2
+  matplotlib
 
 Installation
 
