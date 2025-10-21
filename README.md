@@ -10,6 +10,7 @@ This project enhances urban mobility by dynamically adjusting signal durations b
 E:\ProjectPSO
 
 ├── yolodetection.py # Core PSO optimization algorithm
+
 ├── README.md # Project documentation
 ---
 
