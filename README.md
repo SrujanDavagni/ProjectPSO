@@ -8,10 +8,7 @@ This project enhances urban mobility by dynamically adjusting signal durations b
 ## Project Structure
 
 E:\ProjectPSO
-├── main.py # Core PSO optimization algorithm
-├── simulation.py # SUMO or traffic simulation interface
-├── v2x_module.py # Handles V2X communication layer
-├── requirements.txt # Required dependencies
+├── yolodetection.py # Core PSO optimization algorithm
 ├── README.md # Project documentation
 ---
 
@@ -19,10 +16,7 @@ E:\ProjectPSO
 
 - Real-time traffic data acquisition via V2X-enabled sensors  
 - Adaptive traffic signal control using PSO algorithm  
-- Dynamic adjustment of green and red light durations  
-- Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) data exchange  
-- Improved average throughput and reduced waiting time  
-- Visualization of optimized traffic flow using simulation tools  
+- Dynamic adjustment of green and red light durations
 
 ---
 
@@ -42,20 +36,12 @@ E:\ProjectPSO
      ```
    - The best configuration (gbest) is selected and sent to the signal controller.  
 
-3. **V2X Communication**  
-   - Vehicles and infrastructure share data through **V2V**, **V2I**, and **V2N** channels.  
-   - The controller updates signals based on real-time inputs from connected vehicles.  
-
 ---
 
 ## Technologies Used
 
 - **Python 3.x**  
-- [NumPy](https://numpy.org/) — PSO computation  
-- [Flask / FastAPI](https://fastapi.tiangolo.com/) — Backend API  
-- [MongoDB / Firebase](https://www.mongodb.com/) — Data storage  
-- [SUMO](https://www.eclipse.org/sumo/) — Traffic simulation  
-- [MQTT / VANET Protocols](https://mqtt.org/) — V2X communication layer  
+- [NumPy](https://numpy.org/) — PSO computation
 - [Matplotlib](https://matplotlib.org/) — Visualization  
 
 ---
